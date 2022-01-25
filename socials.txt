@@ -1,0 +1,12 @@
+jupiterpal@outlook.com
+youtube - https://www.youtube.com/channel/UCndRcl8YDg978lyREaK9fTg
+twitter - @JupiterPal
+instagram - @jupiter_pal
+tiktok - @jupiterpal
+
+
+L***W
+
+mongodb+srv://JupiterPal_admin:
+    <password>@jupitersubscription.xjjvh.mongodb.net/myFirstDatabase?
+    retryWrites=true&w=majority
